@@ -1,0 +1,42 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment folder (if using venv)
+venv/
+.env/
+
+# PyQt5 or other IDE-specific files
+.idea/
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files created by text editors or IDEs
+*.swp
+*.bak
+*.tmp
+
+# Jupyter Notebooks Checkpoints (if using Jupyter)
+.ipynb_checkpoints/
+
+# File to store sensitive data (such as database or API keys, etc.)
+*.env
+
+# Cache files
+.cache/
+
+# Coverage report files
+coverage/
+*.coveragerc
+
+# Pytest cache directory
+.pytest_cache/
