@@ -22,4 +22,4 @@ Ensure the following are installed on your system before running the application
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/yourusername/network-traffic-analyzer.git
+   git clone https://github.com/Baheti93/network-traffic-analyzer.git
