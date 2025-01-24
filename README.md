@@ -15,6 +15,7 @@ Ensure the following are installed on your system before running the application
 
 1. Python 3.x: Download and install Python from python.org.
 2. Required Libraries:
+  
 Scapy: Install with pip install scapy.
 PyQt5: Install with pip install PyQt5.
 3. Admin/Root Privileges: Run the script with appropriate permissions to enable packet capturing.
